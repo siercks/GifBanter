@@ -1,0 +1,1 @@
+C:\Users\siercks\Documents\GitHub\GifBanter\GifBanterMAUI\GifBanterMAUI.csproj;x64

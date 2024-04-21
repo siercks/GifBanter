@@ -24,7 +24,7 @@
 		<ApplicationTitle>GifBanterMAUI</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.gifbantermaui</ApplicationId>
+		<ApplicationId>gifbantermaui</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GifBanterMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5e309cfe748224e095430943a2f6bcf5382a5340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cfb0b146cff025014880bf0ba1010b5533ec2f98")]
 [assembly: System.Reflection.AssemblyProductAttribute("GifBanterMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GifBanterMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

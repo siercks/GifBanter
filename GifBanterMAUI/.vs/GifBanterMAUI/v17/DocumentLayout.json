@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\services\\gifupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:services\\gifupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\models\\giffile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:models\\giffile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\gifpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:gifpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\services\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:services\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -19,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\gifpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:gifpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\services\\gifupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:services\\gifupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\services\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|solutionrelative:services\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E32CCFA-4C0F-4F5B-85D5-05957CA4D5C7}|GifBanterMAUI.csproj|c:\\users\\siercks\\documents\\github\\gifbanter\\gifbantermaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GifPost.cs",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\GifPost.cs",
               "RelativeDocumentMoniker": "GifPost.cs",
@@ -75,13 +83,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAtAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:27:19.8Z",
               "EditorCaption": ""
@@ -90,24 +98,24 @@
         },
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Styles.xaml",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Resources\\Styles\\Styles.xaml",
-              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Resources\\Styles\\Styles.xaml",
-              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-19T13:59:15.937Z",
+              "WhenOpened": "2024-04-19T12:15:48.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -120,46 +128,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "GifFile.cs",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Models\\GifFile.cs",
+              "RelativeDocumentMoniker": "Models\\GifFile.cs",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Models\\GifFile.cs",
+              "RelativeToolTip": "Models\\GifFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:41:23.31Z",
+              "WhenOpened": "2024-04-21T16:58:36.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml",
-              "RelativeToolTip": "App.xaml",
+              "DocumentIndex": 8,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-19T13:05:07.604Z",
+              "WhenOpened": "2024-04-19T13:59:15.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAAAgAAAAAAAAAAADgvxQAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-19T12:15:48.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Platforms\\Windows\\App.xaml",
               "RelativeDocumentMoniker": "Platforms\\Windows\\App.xaml",
@@ -172,7 +167,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "GifUpload.cs",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\GifUpload.cs",
+              "RelativeDocumentMoniker": "Services\\GifUpload.cs",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\GifUpload.cs",
+              "RelativeToolTip": "Services\\GifUpload.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:34:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T17:31:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\IFileUpload.cs",
+              "RelativeDocumentMoniker": "Services\\IFileUpload.cs",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\IFileUpload.cs",
+              "RelativeToolTip": "Services\\IFileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:33:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T13:05:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:41:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Colors.xaml",
               "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Resources\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
@@ -181,32 +241,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-19T13:59:17.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GifUpload.cs",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\GifUpload.cs",
-              "RelativeDocumentMoniker": "Services\\GifUpload.cs",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\GifUpload.cs",
-              "RelativeToolTip": "Services\\GifUpload.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:34:56.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFileUpload.cs",
-              "DocumentMoniker": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\IFileUpload.cs",
-              "RelativeDocumentMoniker": "Services\\IFileUpload.cs",
-              "ToolTip": "C:\\Users\\siercks\\Documents\\GitHub\\GifBanter\\GifBanterMAUI\\Services\\IFileUpload.cs",
-              "RelativeToolTip": "Services\\IFileUpload.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:33:46.24Z",
               "EditorCaption": ""
             }
           ]

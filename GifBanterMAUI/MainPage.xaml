@@ -22,23 +22,55 @@
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to GifBanter!" />
-            <HorizontalStackLayout>
-                <CollectionView ItemsSource="{Binding GifPosts}">
-                        <CollectionView.ItemTemplate>
-                        <DataTemplate>
-                            <Label Text="{Binding Title}" />
-                        </DataTemplate>
-                    </CollectionView.ItemTemplate>
-                </CollectionView>
-            </HorizontalStackLayout>
-            <Entry x:Name="PostEntry" Placeholder="Write your words here (for now!)"/>
+            <CollectionView
+                x:Name="GifCollectionView"
+                ItemsSource="{Binding GifPosts}"
+                SelectionMode="Single"
+                >
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical"
+                                      Span="1"
+                                      VerticalItemSpacing="1"
+                                      HorizontalItemSpacing="10"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Image
+                                Grid.Row="0"
+                                Source="{Binding GifPost}"
+                                HeightRequest="150"
+                                WidthRequest="150"
+                                Aspect="AspectFill"
+                                />
+                            <Label
+                                Grid.Row="1"
+                                Text="{Binding Date}"
+                                FontSize="Micro"
+                                HorizontalOptions="Center"
+                                />
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Image
+                x:Name="Image_Uploaded"
+                HeightRequest="300"
+                WidthRequest="300"
+                IsAnimationPlaying="True"
+                HorizontalOptions="Center"
+                />
+            <Entry x:Name="GifEntry" x:DataType="ImageFormat" Placeholder="Enter your Gif URL here!"/>
 
             <Button
-                x:Name="CounterBtn"
-                Text="Send it!" 
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
+                x:Name="UploadGifButton"
+                Text="Upload GIF!"
+                Clicked="UploadGifClicked"
+                />
         </VerticalStackLayout>
     </ScrollView>
 
